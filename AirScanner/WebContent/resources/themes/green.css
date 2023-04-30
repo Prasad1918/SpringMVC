@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body {
+	background: url("img5.jpg") no-repeat fixed;
+	background-size: cover;
+	font-size: 14px;f
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	margin: 0;
+	color: #6a8d61;
+}
